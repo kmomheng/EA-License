@@ -1,4 +1,4 @@
 license.txt
 604638:2027.02.28     E8 MH
-159869172:27.02.28    Xns 120 ND Master
-159877021:2026.05.15    Xns Sousdey
+159869172:2026.05.31  Xns 120 ND Master
+159877021:2026.05.15  Xns Sousdey
