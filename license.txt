@@ -1,4 +1,4 @@
 license.txt
-600711:2027.07.30     Both BlackWell
+569304047:2027.07.30  Lirunex MH $20
 159869172:2026.05.31  Xns 120 ND Master
 159877021:2026.06.15  Xns Sousdey
